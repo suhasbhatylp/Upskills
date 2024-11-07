@@ -1,0 +1,2 @@
+1 joins
+2 primary and foregn key
